@@ -1,0 +1,6 @@
+{
+  "name": "honeymoney-app",
+  "short_name": "honeymoney-app",
+  "start_url": "/",
+  "display": "standalone"
+}
